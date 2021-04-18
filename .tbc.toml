@@ -1,0 +1,6 @@
+[echo]
+	exe = "echo"
+	args = ["Hello", "World"]
+
+[pwd]
+	exe = "pwd"
